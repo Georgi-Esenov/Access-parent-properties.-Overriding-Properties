@@ -34,6 +34,7 @@ class Vehicle:
 
 
 class Sedan(Vehicle):
+    __PASSENGERS_LIMIT = 5 
     pass
 
 
